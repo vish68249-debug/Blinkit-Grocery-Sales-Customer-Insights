@@ -10,10 +10,9 @@ exploratory analysis in Python, then a four-page interactive dashboard in Power 
 ## Dashboard preview
 
 ### Executive Sales Dashboard
-![Executive Sales Dashboard](dashboard/01_executive_sales_dashboard.png)
-
+![Executive Sales Dashboard](dashboard/Executive%20Sales%20Dashboard.png)
 ### Customer & Outlet Insights
-![Customer and Outlet Insights](dashboard/02_customer_outlet_insights.png)
+![Customer and Outlet Insights](dashboard/customer-outlet-insights.png)
 
 ---
 
@@ -149,4 +148,4 @@ The Power BI report is built on the cleaned file.
 
 ---
 
-**Author:** YOUR NAME · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) · [Email](mailto:YOUR-EMAIL)
+**Author:** Vishwanath Hubballi · [LinkedIn](https://www.linkedin.com/in/vishwanath-hubballi) · [Email](mailto:vish68249@gmail.com)
