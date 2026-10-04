@@ -130,7 +130,7 @@ blinkit-sales-analysis/
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/blinkit-sales-analysis.git
+git clone https://github.com/vish68249-debug/blinkit-sales-analysis.git
 cd blinkit-sales-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/blinkit_analysis.ipynb
